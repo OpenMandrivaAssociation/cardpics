@@ -1,6 +1,6 @@
 %define name cardpics
 %define version 0.4
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary: Some Card images
 Name: %{name}
@@ -8,7 +8,7 @@ Version: %{version}
 Release: %{release}
 License: GPL
 Group: Games/Cards
-Source: http://savannah.gnu.org/download/cardpics/sources/%{name}-%{version}.tar.bz2
+Source: http://download.savannah.nongnu.org/releases/cardpics/%{name}-%{version}.tar.bz2
 URL: http://www.nongnu.org/cardpics
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
