@@ -21,7 +21,8 @@ made for you! Get a set of cards and include them in your project, as soon as
 your project is free.
 
 %description -l fr
-Cardpics est un jeu de cartes. Pour éviter l'ambiguité sur le terme "jeu", disons que c'est un ensemble d'images de cartes à jouer.
+Cardpics est un jeu de cartes. Pour éviter l'ambiguité sur le terme "jeu",
+disons que c'est un ensemble d'images de cartes à jouer.
 
 Si vous programmez un jeu de cartes et avez besoin d'un jeu d'images de cartes
 libres, Cardpics est fait pour vous! Récupérez un jeu de ces cartes, et
