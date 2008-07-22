@@ -1,6 +1,6 @@
 %define name cardpics
 %define version 0.4
-%define release %mkrel 7
+%define release %mkrel 9
 
 Summary: Some Card images
 Name: %{name}
