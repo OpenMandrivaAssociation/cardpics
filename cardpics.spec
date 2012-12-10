@@ -55,3 +55,45 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/*
 
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4-11mdv2011.0
++ Revision: 616941
+- the mass rebuild of 2010.0 packages
+
+* Wed Sep 02 2009 Thierry Vignaud <tv@mandriva.org> 0.4-10mdv2010.0
++ Revision: 424748
+- rebuild
+
+* Tue Jul 22 2008 Thierry Vignaud <tv@mandriva.org> 0.4-9mdv2009.0
++ Revision: 240487
+- rebuild
+- fix description-line-too-long
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Sun Aug 19 2007 Olivier Thauvin <nanardon@mandriva.org> 0.4-7mdv2008.0
++ Revision: 66710
+- rebuild
+
+
+* Fri Aug 04 2006 Olivier Thauvin <nanardon@mandriva.org>
++ 08/04/06 21:30:59 (52914)
+- rebuild
+
+* Fri Aug 04 2006 Olivier Thauvin <nanardon@mandriva.org>
++ 08/04/06 21:30:01 (52913)
+Import cardpics
+
+* Mon Apr 17 2006 Olivier Thauvin <nanardon@mandriva.org> 0.4-5mdk
+- rebuild
+
+* Tue Mar 29 2005 Olivier Thauvin <nanardon@mandrake.org> 0.4-4mdk
+- %%mkrel && rebuild
+
+* Sat Jan 03 2004 Olivier Thauvin <thauvin@aerov.jussieu.fr> 0.4-3mdk
+- birthday rebuild
+
