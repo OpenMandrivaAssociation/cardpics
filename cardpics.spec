@@ -4,8 +4,8 @@
 
 Summary: Some Card images
 Name: %{name}
-Version: %{version}
-Release: %{release}
+Version: 0.4
+Release: 1%{release}
 License: GPL
 Group: Games/Cards
 Source: http://download.savannah.nongnu.org/releases/cardpics/%{name}-%{version}.tar.bz2
