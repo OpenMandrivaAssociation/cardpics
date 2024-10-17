@@ -9,7 +9,7 @@ Release: 1%{release}
 License: GPL
 Group: Games/Cards
 Source: http://download.savannah.nongnu.org/releases/cardpics/%{name}-%{version}.tar.bz2
-URL: http://www.nongnu.org/cardpics
+URL: https://www.nongnu.org/cardpics
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
 
